@@ -6,7 +6,7 @@
 Blow some breath into your app with Chabok realtime messaging and receive push notifications across all platforms with zero code. Know your users better, push them the content based on their location or track their presence/location without headache.
 
 ### Installation
-See ChabokPush [iOS Framework](http://doc.chabokpush.com/windows/installation.html) installation document.
+See ChabokPush [Windows Library](http://doc.chabokpush.com/windows/installation.html) installation document.
 
 ### API
 See ChabokPush [Usage](https://doc.chabokpush.com/windows/setup.html) page for a list of all available methods.
