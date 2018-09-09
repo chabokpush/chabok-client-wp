@@ -1,5 +1,6 @@
-## Chabok Push for Windows Universal 10 & Windows Phone 8.1
+![Logo](https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/Windows.svg)
 
+# Chabok Push for Windows Universal 10 & Windows Phone 8.1
 [![NuGet](https://img.shields.io/nuget/v/ADPPushSDK.svg)](https://www.nuget.org/packages/ADPPushSDK)
 [![NuGet](https://img.shields.io/nuget/dt/ADPPushSDK.svg)](https://www.nuget.org/packages/ADPPushSDK)
 
