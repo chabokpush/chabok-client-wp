@@ -1,4 +1,6 @@
-![Logo](https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/Windows.svg)
+<p align="center"> 
+  <img src="https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/Windows.svg">
+</p>
 
 # Chabok Push for UWP 10 & Windows Phone 8.1
 [![NuGet](https://img.shields.io/nuget/v/ADPPushSDK.svg)](https://www.nuget.org/packages/ADPPushSDK)
